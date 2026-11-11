@@ -21,6 +21,8 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 9. **Web送客調査・条件**：docs/step7-web-referral-research.md
 10. **試算の仮定と感度**：docs/step7-financial-scenarios.md
 
+**応募条件・権利・Web品質の最新確認**：docs/step30-31-eligibility-rights-web-qa.md（静的点検、MVP保存処理修正、残る確認事項）
+
 **応募資料の最新制作記録**：docs/step29-v11-submission-candidate-check.md（v11、提出候補・最終点検）
 
 **応募フォーム回答①〜⑤の最新提出候補**：docs/step27-application-answers-v9-alignment.md（v9との整合・文字数確認）
