@@ -23,6 +23,8 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 
 **応募資料の最新制作記録**：docs/step26-page4-demo-qr-v9.md（v9、P4に公開デモURL・QRを追加）
 
+**応募フォーム回答①〜⑤の最新提出候補**：docs/step27-application-answers-v9-alignment.md（v9との整合・文字数確認）
+
 **前版**：docs/step21-page8-business-model-applied.md（v5、P8更新）
 
 ## 1. 企画の核（既決事項）
