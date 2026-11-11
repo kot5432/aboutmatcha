@@ -1,3 +1,5 @@
+**応募資格・提出条件の新しい確認台帳**：docs/step33-eligibility-submission-research.md（一次確定と二次参考を区別）
+
 # MATCHA ROUTE｜事業企画・決定事項（最新版）
 
 更新日：2026-11-11
