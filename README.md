@@ -12,10 +12,12 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 2. **口頭発表なしで読める応募添付PDFの9ページ設計**：docs/step10-attachment-pdf-blueprint.md
 3. **事業再設計と整合する応募回答①〜⑤（提出候補）**：docs/step10-application-answers-aligned.md
 4. **一次情報・実装の証拠台帳（2026-11-11）**：docs/step11-evidence-ledger.md
-5. **テーマ別の発見を採用した経緯**：docs/step9-themed-discovery-operations.md
-6. **POP-UPの運営構想**：docs/step6-popup-experience.md
-7. **Web送客調査・条件**：docs/step7-web-referral-research.md
-8. **試算の仮定と感度**：docs/step7-financial-scenarios.md
+5. **丸井POP-UP一般出店条件の検証**：docs/step12-popup-operational-feasibility.md
+6. **初回商品10件の確認ゲート・出典**：docs/step12-product-clearance-ledger.md
+7. **テーマ別の発見を採用した経緯**：docs/step9-themed-discovery-operations.md
+8. **POP-UPの運営構想**：docs/step6-popup-experience.md
+9. **Web送客調査・条件**：docs/step7-web-referral-research.md
+10. **試算の仮定と感度**：docs/step7-financial-scenarios.md
 
 ## 1. 企画の核（既決事項）
 
@@ -77,7 +79,8 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 - WEB CONNECT：商品別QRでWebの商品詳細・保存・次の発見につなぐ構想。
 - Web→店舗、店舗→Webの導線を提案。ただし来店数増加・売上増加は未検証。
 - 協業成立・掲載許諾・会場・販売主体・仕入れ・温度管理・食品安全・費用は未確定。
-- **新しい段階案**：販売の前に許諾済み展示＋QRの小規模実証を検討。10展示＋最大3販売の本命案は維持。詳細はSTEP 10。
+- **新しい段階案**：販売の前に許諾済み展示＋QRの小規模実証を検討。10展示＋最大3販売の本命案は維持。詳細はSTEP 10・STEP 12。
+- **2026-11-11調査**：一般出店窓口OMEMIEには原則最低7日（一部店舗14日）、営業時間に合わせスタッフ最低2名、固定賃料前払い、商談後最短90日などの条件がある。以前の「3日間・固定費7万円」試算を実出店計画の根拠にしない。好きコン協業への同条件適用は未確認。
 
 ## 6. 収益モデル（方向性維持、契約・実績なし）
 
@@ -88,7 +91,7 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 
 **計算の参考（すべて仮定で実績ではない）**
 - Web：商品詳細閲覧者3,000人/月、外部遷移率15%、その後の購入率3%、承認率90%、200円/承認 → 2,430円/月（契約時のみ）。月固定費3,000円の仮定なら赤字。
-- POP-UP：平均1,500円、原価率60%、その他変動費5%なら限界利益525円/件。固定費70,000円で約134件、120,000円で約229件が損益分岐。人件費等の実費確認前に黒字化を約束しない。
+- POP-UP：旧試算の平均1,500円・原価率60%・変動費5%・固定費70,000円という仮定なら134件で損益分岐。ただし**一般出店条件と合致せず、商品構成・必要人員・会場費にも根拠がない**ため、実施計画や黒字化の根拠には使用しない。
 
 ## 7. 応募に向けた段階
 
