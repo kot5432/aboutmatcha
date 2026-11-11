@@ -10,10 +10,11 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 
 1. **事業全体の再設計／前提の整理**：docs/step10-business-redesign.md
 2. **口頭発表なしで読める応募添付PDFの9ページ設計**：docs/step10-attachment-pdf-blueprint.md
-3. **テーマ別の発見を採用した経緯**：docs/step9-themed-discovery-operations.md
-4. **POP-UPの運営構想**：docs/step6-popup-experience.md
-5. **Web送客調査・条件**：docs/step7-web-referral-research.md
-6. **試算の仮定と感度**：docs/step7-financial-scenarios.md
+3. **事業再設計と整合する応募回答①〜⑤（提出候補）**：docs/step10-application-answers-aligned.md
+4. **テーマ別の発見を採用した経緯**：docs/step9-themed-discovery-operations.md
+5. **POP-UPの運営構想**：docs/step6-popup-experience.md
+6. **Web送客調査・条件**：docs/step7-web-referral-research.md
+7. **試算の仮定と感度**：docs/step7-financial-scenarios.md
 
 ## 1. 企画の核（既決事項）
 
