@@ -11,10 +11,11 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 1. **事業全体の再設計／前提の整理**：docs/step10-business-redesign.md
 2. **口頭発表なしで読める応募添付PDFの9ページ設計**：docs/step10-attachment-pdf-blueprint.md
 3. **事業再設計と整合する応募回答①〜⑤（提出候補）**：docs/step10-application-answers-aligned.md
-4. **テーマ別の発見を採用した経緯**：docs/step9-themed-discovery-operations.md
-5. **POP-UPの運営構想**：docs/step6-popup-experience.md
-6. **Web送客調査・条件**：docs/step7-web-referral-research.md
-7. **試算の仮定と感度**：docs/step7-financial-scenarios.md
+4. **一次情報・実装の証拠台帳（2026-11-11）**：docs/step11-evidence-ledger.md
+5. **テーマ別の発見を採用した経緯**：docs/step9-themed-discovery-operations.md
+6. **POP-UPの運営構想**：docs/step6-popup-experience.md
+7. **Web送客調査・条件**：docs/step7-web-referral-research.md
+8. **試算の仮定と感度**：docs/step7-financial-scenarios.md
 
 ## 1. 企画の核（既決事項）
 
@@ -37,14 +38,14 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 
 ## 3. Web MVP（既存の本人報告、今回直接のコード検証なし）
 
-- DISCOVER：1商品ずつ写真中心に紹介。前後移動可能。
+- DISCOVER：1商品ずつイメージイラストを中心に紹介。前後移動可能（現コードの次ボタンは最終から先頭へ循環）。
 - DISCOVERY POINT：その商品の特徴を開示。特徴が短い場合は強制的な隠し演出を見直す余地がある。
 - COLLECTION／PRODUCT：一覧と詳細。
 - WISHLIST：ハート操作で保存・解除。保存はブラウザーのlocalStorage（ログイン・同期なし）。
 - スマートフォン優先、深緑・アイボリー基調。ボタンとスワイプの誤操作を避ける。
-- 5商品デモMVPは本人が動作確認済みと報告。10候補の正式公開やテーマ管理、POP-UP開催情報／商品別QRは**未実装・未確定**。
+- 5商品デモMVPは本人が動作確認済みと報告。**2026-11-11に実装repoの index.html を静的確認済み**（実機は未確認）。デモは仮イラスト・仮情報で、外部リンクは**公式購入先ではなく元のInstagram投稿**。正式な商品購入先案内・10候補の正式公開・テーマ管理・POP-UP開催情報／商品別QRは**未実装・未確定**。
 - 既存報告コミット：https://github.com/kot5432/matcha/commit/401a4b62dc6e66edd5681bb8b66d05a9060da81d
-- 応募PDFに画面を載せる前に実機画面・表示データ・素材の権利を再確認する。
+- 応募PDFに画面を載せる前に実機画面・表示データ・素材の権利を再確認する。調査結果：docs/step11-evidence-ledger.md。
 
 ## 4. 初回の商品候補と編集運用
 
