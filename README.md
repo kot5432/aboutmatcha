@@ -11,6 +11,7 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 1. **事業全体の再設計／前提の整理**：docs/step10-business-redesign.md
 2. **口頭発表なしで読める応募添付PDFの9ページ設計**：docs/step10-attachment-pdf-blueprint.md
    - **STEP 13：9ページの掲載文章・図版指定・注記を具体化した制作原稿v1**：docs/step13-pdf-page-copy-v1.md
+   - **STEP 17：2ページ目差し替え・PDF/PPTX v2制作記録と改善順**：docs/step17-page2-applied-and-next-review.md
 3. **事業再設計と整合する応募回答①〜⑤（提出候補）**：docs/step10-application-answers-aligned.md
 4. **一次情報・実装の証拠台帳（2026-11-11）**：docs/step11-evidence-ledger.md
 5. **丸井POP-UP一般出店条件の検証**：docs/step12-popup-operational-feasibility.md
