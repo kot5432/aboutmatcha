@@ -21,7 +21,9 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 9. **Web送客調査・条件**：docs/step7-web-referral-research.md
 10. **試算の仮定と感度**：docs/step7-financial-scenarios.md
 
-**応募資料の最新制作記録**：docs/step21-page8-business-model-applied.md（v5、P8更新）
+**応募資料の最新制作記録**：docs/step22-pages3-7-9-consistency-redesign.md（v6、P3・P7・P9更新）
+
+**前版**：docs/step21-page8-business-model-applied.md（v5、P8更新）
 
 ## 1. 企画の核（既決事項）
 
