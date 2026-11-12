@@ -1,3 +1,5 @@
+**Webの最新導線修正**：docs/step51-detail-next-image-first.md（詳細から次の抹茶へ進むと大きな画像を表示）
+
 **商品詳細UIの最新改善**：docs/step50-detail-panel-ux-polish.md（詳細を開いてすぐ発見ポイントが見える構成・保存時の再描画防止）
 
 **Web UIの最新改善記録**：docs/step49-editorial-ui-redesign.md（実サイトの事例を参考に、見出し・日本語ナビゲーション・タイポグラフィとサイト情報を整理）
