@@ -42,3 +42,11 @@
 - 変更対象：5ページ目の画像3点のみ
 - 画像ソース：`assets/matcha-basque-cheesecake.jpg`、`assets/matcha-brulee-crepe.jpg`、`assets/matcha-ice-bar.jpg`
 - Canva側のアセット差し替えと保存成功を確認したが、**新しいPDF／PPTXファイルのエクスポートは未実行・未検査**。v14のローカルPDF／PPTXは変更していない。Canva保存済みデザインが最新版。
+
+## 2026-11-12｜PDF・PPTXの書き出しについて
+
+ユーザーからWebと同じ画像3件への差し替え確定と出力の許可を受領。Canvaデザイン `DAHarNLLDJU` には差し替えが保存済み。
+
+ただし、現在のツール経路ではCanvaからローカルPDF・PPTXの直接エクスポートができず、他サービスへのインポート経路も利用不可。GitHubからバイナリの元画像を直接ローカルファイルへ転送することもできなかった。そのため、**v15 PDF・PPTXは未作成**。v14のPDF・PPTXをv15として再配布しない。
+
+**最新の正しい画像が反映された成果物はCanva上の9ページデザインのみ**：https://www.canva.com/d/cmcj3KmpZt_nu4O 。ユーザーがCanva上でPDF・PowerPointとしてエクスポート可能。エクスポート後のファイルのリンクや内部ハイパーリンク、全ページの表示確認は未実施。
