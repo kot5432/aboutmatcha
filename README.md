@@ -31,7 +31,7 @@ Web実装リポジトリ：https://github.com/kot5432/matcha
 
 **応募条件・権利・Web品質の最新確認**：docs/step30-31-eligibility-rights-web-qa.md（静的点検、MVP保存処理修正、残る確認事項）
 
-**応募資料の最新制作記録**：docs/step47-v20-align-deck-with-image-first-web.md（v20、Web新UIの再現画面に合わせP4を更新）
+**応募資料の最新制作記録**：docs/step48-v21-expanded-business-narrative.md（v21、課題仮説・独自性・協業・収益・実証を充実した10ページ構成）
 
 **応募フォーム回答①〜⑤の最新提出候補**：docs/step27-application-answers-v9-alignment.md（v9との整合・文字数確認）
 
