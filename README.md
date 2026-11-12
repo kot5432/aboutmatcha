@@ -1,3 +1,5 @@
+**Web購入・店舗案内の設計／実装記録**：docs/step42-web-product-destination-flow.md（5商品の販売情報に応じた案内・保存一覧から詳細へ）
+
 **応募資格・提出条件の新しい確認台帳**：docs/step33-eligibility-submission-research.md（一次確定と二次参考を区別）
 
 # MATCHA ROUTE｜事業企画・決定事項（最新版）
