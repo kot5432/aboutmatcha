@@ -1,0 +1,34 @@
+# STEP 38｜P5をWebデモ実画像に統一（Canva保存前プレビュー）
+
+更新日：2026-11-12
+状態：**Canva上にv14 PPTXを複製インポートし、5枚目の3画像をWebデモの同じ画像へ差し替えた編集ドラフトを用意。Canva側の指示に従い、プレビュー確認・利用者承認前は保存コミットしない。PPTX/PDF v14はまだ変更していない。**
+
+## ユーザーの判断
+- P5の3商品はWebデモのまま維持し、新しく生成した画像ではなく、**Webデモ内で実際に使用しているイラスト**を使う。
+- 商品：抹茶バスクチーズ、抹茶ブリュレクレープ、生茶の菓アイスバー。
+
+## 元画像
+以下の3つを `kot5432/matcha` のGitHub `assets` から参照し、Canvaのメディアとしてアップロード（画像の再生成なし）。
+
+1. https://raw.githubusercontent.com/kot5432/matcha/main/assets/matcha-basque-cheesecake.jpg
+2. https://raw.githubusercontent.com/kot5432/matcha/main/assets/matcha-brulee-crepe.jpg
+3. https://raw.githubusercontent.com/kot5432/matcha/main/assets/matcha-ice-bar.jpg
+
+## ドラフト編集
+- v14 PPTXをCanvaに取り込み、9ページの編集デザインを生成（ID `DAHarNLLDJU`）。
+- **5ページ目の画像要素3点だけ**を上記3画像に置換。商品名・説明・商品順・レイアウト・他ページは変更対象外。
+- 3件のCanva画像アセットID（配置確認用）：`MAHarMGTXHs`、`MAHarADQjmc`、`MAHarECTPRM`。
+- 編集トランザクション `3721621099694636134` で更新処理が成功。変更後のfill参照も再確認。
+- Canvaプレビューが返されたが、ホスト側の画像ダウンロード制限によりローカル画像としては取得できていない。Canvaのドラフトビューで確認を依頼する。
+- Canvaドラフト編集リンク（ユーザーがアクセスできる場合）：https://www.canva.com/d/AIPNDoUeRMeaqol
+- Canva元デザイン： https://www.canva.com/d/cmcj3KmpZt_nu4O
+
+## 未完了事項
+- 5ページ目のプレビューを本人が確認し、保存する明示承認を得る。
+- Canvaで最終保存を実施、必要ならCanvaからPDF/PPTXにエクスポート。
+- もしCanva由来の再書き出しでv14の他ページにレイアウトやリンクの差分が出たら、改めてPDF/PPTXを検査し、v15完成とする。
+- **元のv14 PDF/PPTXを完成v15と呼び替えたり、未確認の差し替えが済んだと宣言したりしない。**
+
+## 注意
+- 画像はWebに採用中の「イメージイラスト」であり、権利を取得した公式商品写真だとは扱わない。
+- GitHubに個人写真や応募PDF/PPTXのバイナリを無断アップロードしない。
