@@ -32,3 +32,13 @@
 ## 注意
 - 画像はWebに採用中の「イメージイラスト」であり、権利を取得した公式商品写真だとは扱わない。
 - GitHubに個人写真や応募PDF/PPTXのバイナリを無断アップロードしない。
+
+## 追記｜ユーザーの明示指示に基づくCanva保存完了（2026-11-12）
+
+ユーザーから「Webの画像そのものを使う」「そうです」「取れないですか？画像など」と繰り返し指定を受けたため、Canva編集トランザクション `3721621099694636134` をコミット。ツール応答は `status: committed`。編集用デザインの3画像は、GitHub `kot5432/matcha` の公開アセットと同一の3ファイルをCanvaへ取り込んで配置した。
+
+- 保存済みCanvaデザイン：https://www.canva.com/d/cmcj3KmpZt_nu4O
+- デザインID：`DAHarNLLDJU`
+- 変更対象：5ページ目の画像3点のみ
+- 画像ソース：`assets/matcha-basque-cheesecake.jpg`、`assets/matcha-brulee-crepe.jpg`、`assets/matcha-ice-bar.jpg`
+- Canva側のアセット差し替えと保存成功を確認したが、**新しいPDF／PPTXファイルのエクスポートは未実行・未検査**。v14のローカルPDF／PPTXは変更していない。Canva保存済みデザインが最新版。
