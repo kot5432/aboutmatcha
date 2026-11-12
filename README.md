@@ -1,3 +1,5 @@
+**Web UIの最新改善記録**：docs/step49-editorial-ui-redesign.md（実サイトの事例を参考に、見出し・日本語ナビゲーション・タイポグラフィとサイト情報を整理）
+
 **Webの最新体験改善**：docs/step45-image-first-discovery-flow.md（初回ガイド→大きな画像→タップで詳細・保存・次の商品）
 
 **Webの最新改善記録**：docs/step44-web-trust-onboarding-stable-favorites.md（初回案内・商品注意書き・固定IDでの保存）
