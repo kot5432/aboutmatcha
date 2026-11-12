@@ -1,3 +1,5 @@
+**商品詳細UIの最新改善**：docs/step50-detail-panel-ux-polish.md（詳細を開いてすぐ発見ポイントが見える構成・保存時の再描画防止）
+
 **Web UIの最新改善記録**：docs/step49-editorial-ui-redesign.md（実サイトの事例を参考に、見出し・日本語ナビゲーション・タイポグラフィとサイト情報を整理）
 
 **Webの最新体験改善**：docs/step45-image-first-discovery-flow.md（初回ガイド→大きな画像→タップで詳細・保存・次の商品）
