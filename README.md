@@ -1,3 +1,5 @@
+**Webの最新改善記録**：docs/step44-web-trust-onboarding-stable-favorites.md（初回案内・商品注意書き・固定IDでの保存）
+
 **Web購入・店舗案内の設計／実装記録**：docs/step42-web-product-destination-flow.md（5商品の販売情報に応じた案内・保存一覧から詳細へ）
 
 **応募資格・提出条件の新しい確認台帳**：docs/step33-eligibility-submission-research.md（一次確定と二次参考を区別）
