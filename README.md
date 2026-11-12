@@ -1,3 +1,5 @@
+**Webの最新体験改善**：docs/step45-image-first-discovery-flow.md（初回ガイド→大きな画像→タップで詳細・保存・次の商品）
+
 **Webの最新改善記録**：docs/step44-web-trust-onboarding-stable-favorites.md（初回案内・商品注意書き・固定IDでの保存）
 
 **Web購入・店舗案内の設計／実装記録**：docs/step42-web-product-destination-flow.md（5商品の販売情報に応じた案内・保存一覧から詳細へ）
